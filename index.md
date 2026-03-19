@@ -44,7 +44,7 @@ All receipt data is stored locally on your device using Core Data. We do not ope
 Since all receipt data is stored locally on your device, you have full control. You can delete individual receipts or remove all data by deleting the app.
 
 ## Contact
-For privacy questions, contact: [support email]
+For privacy questions, contact: reci.receipts@gmail.com
 
 ## Changes
 We may update this policy from time to time. Changes will be posted on this page with an updated date.
