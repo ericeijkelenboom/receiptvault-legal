@@ -1,11 +1,11 @@
-# Receipt Vault — Privacy Policy
+# Reci — Privacy Policy
 
 **Effective Date:** 2026-03-18
-**Last Updated:** 2026-03-18
+**Last Updated:** 2026-03-19
 
-## What Receipt Vault Does
+## What Reci Does
 
-Receipt Vault is a receipt scanning app. You photograph receipts, and the app extracts structured data (store name, date, items, total) and stores it on your device.
+Reci is a receipt scanning app. You photograph receipts, and the app extracts structured data (store name, date, items, total) and stores it on your device.
 
 ## Data We Collect
 
@@ -25,8 +25,7 @@ We use TelemetryDeck to collect anonymous usage statistics (e.g., how often rece
 
 | Service | Purpose | Data Sent |
 |---------|---------|-----------|
-| Google Cloud Vision | OCR text extraction from receipt images | Receipt image (not stored) |
-| Anthropic Claude | Structuring extracted text into receipt fields | OCR text only (no images) |
+| Anthropic Claude | Receipt data extraction from images | Receipt image (not stored) |
 | Firebase Crashlytics | Crash reporting | Anonymous device/crash data |
 | TelemetryDeck | Usage analytics | Anonymous event signals |
 
@@ -45,7 +44,7 @@ All receipt data is stored locally on your device using Core Data. We do not ope
 Since all receipt data is stored locally on your device, you have full control. You can delete individual receipts or remove all data by deleting the app.
 
 ## Contact
-For privacy questions, contact: eric@eijkelenboom.com
+For privacy questions, contact: [support email]
 
 ## Changes
 We may update this policy from time to time. Changes will be posted on this page with an updated date.
